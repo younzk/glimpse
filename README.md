@@ -9,6 +9,13 @@ This is my first attempt to learn and practice data analysis/ programming throug
 - 01. DataFrame and Series
 - 02. Concat Data
 - 03. Handling NaN
+- 4.1 Pandas_DataFrame
+- 4.2 Pandas_Series
+- 4.3 Data Input & Output
+- 4.4 DataFrame Indexing
+- 4.5 Handling Data
+- 4.6 Handling DataFrame Index
+- 4.7 Merging DataFrame
 
 3. Study for Numpy (2022.10)
 - 01. Numpy Array
