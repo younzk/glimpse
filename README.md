@@ -5,7 +5,7 @@ This is my first attempt to learn and practice data analysis/ programming throug
 - Analyzing the status of electric cars and electric vehicle charging stations in Korea and figuring out cities which need more charging stations to be built.
 - Using line and bar graphs to visualize the data
 
-2. Study for Pandas (2022.09 ~)
+2. Study for Pandas (2022.09 ~ )
 - 01. DataFrame and Series
 - 02. Concat Data
 - 03. Handling NaN
@@ -16,6 +16,8 @@ This is my first attempt to learn and practice data analysis/ programming throug
 - 4.5 Handling Data
 - 4.6 Handling DataFrame Index
 - 4.7 Merging DataFrame
+- 4.8 Pivot Table & Group Analysis
+- 4.9 Time Series
 
 3. Study for Numpy (2022.10)
 - 01. Numpy Array
